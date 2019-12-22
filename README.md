@@ -11,5 +11,5 @@ CImg C library is used to open and save images.
 The program expects the following inputs from users:
 1. Input Image name
 2. Output Imgae name
-3. Type of operation, the following convention is adopted
+3. Type of operation, the following convention is adopted:  
 	0 for Blur, 1 for Emboss, 2 for Outline, 3 for Sharpen, 4 for Left Sobel, 5 for Right Sobel, 6 for Top Sobel, 7 for Bottom Sobel 
